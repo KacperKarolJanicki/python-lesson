@@ -1,1 +1,1 @@
-print("Siema ziom!")
+print("Siema ziom! Co tam słychać?")
